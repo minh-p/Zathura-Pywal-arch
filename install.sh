@@ -2,7 +2,7 @@
 
 # Set a path for local binaries
 # add this to your path
-BINPATH=$HOME/.local/bin
+BINPATH=/home/hmp/.local/bin
 
 # make sure this path exists
 mkdir -p "$BINPATH"
@@ -13,7 +13,7 @@ chmod u+x ./zathura
 
 # link the scripts to the PATH
 ln -s "$(pwd)/genzathurarc" "$BINPATH/genzathurarc"
-ln -s "$(pwd)/zathura" "$BINPATH/zathura"
+ln -s "$(pwd)/zathura" "/usr/local/bin/zathurawal"
 
 cat <<EOM
 Installed to "$BINPATH"
