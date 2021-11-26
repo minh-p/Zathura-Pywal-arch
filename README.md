@@ -1,4 +1,9 @@
 # Zathura-Pywal
+
+## Disclaimer:
+This is my fork of Zathura-Pywal: https://github.com/GideonWolfe/Zathura-Pywal
+dmenu wasn't working nicely so I changed the created zathura override to zathurawal in /usr/local/bin
+
 ![alt text](https://i.imgur.com/ETGxlfY.jpg)
 ![alt text](https://i.imgur.com/qCxiPjD.png)
 
