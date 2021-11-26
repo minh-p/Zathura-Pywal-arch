@@ -2,7 +2,8 @@
 
 ## Disclaimer:
 This is my fork of Zathura-Pywal: https://github.com/GideonWolfe/Zathura-Pywal
-dmenu wasn't working nicely so I changed the created zathura override to zathurawal in /usr/local/bin
+dmenu wasn't working nicely so I changed the created zathura override to zathu in /usr/local/bin
+The original zathura suggestion would still exist if you want to use that instead.
 
 ![alt text](https://i.imgur.com/ETGxlfY.jpg)
 ![alt text](https://i.imgur.com/qCxiPjD.png)
